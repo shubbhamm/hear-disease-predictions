@@ -1,1 +1,1 @@
-# hear-disease-predictions
+Machine learning projects
