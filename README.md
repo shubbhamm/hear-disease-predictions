@@ -1,4 +1,4 @@
-Data Science project
+Language translator project
 
 
 heroku app link - https://languagee.herokuapp.com/
